@@ -10,6 +10,8 @@
 @interface AppDelegate ()
 
 @property (strong) IBOutlet NSWindow *window;
+@property (strong) IBOutlet NSToolbar *tb;
+
 @end
 
 @implementation AppDelegate
